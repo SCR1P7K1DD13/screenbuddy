@@ -5,6 +5,7 @@ A simple screen recorder program written in python. Screenbuddy takes the file n
 - [Python 3.x(64-bit)](python.org)
 - [pip](https://pip.pypa.io/en/stable/installation/)
 - [screen-recorder-sdk](https://pypi.org/project/screen-recorder-sdk/)
+
 Make sure you have the latest version of 64-bit python and pip installed in your system. Once python and pip are properly confirgured run
 ```
 pip install screen-recorder-sdk
