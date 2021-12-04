@@ -14,4 +14,6 @@ download screenbuddy.py and you're good to go
 
 # How to Use
 When in the same directory as the python file run the command:
-screenbuddy.py file_name 
+```
+ screenbuddy.py file_name 
+```
