@@ -12,7 +12,7 @@ pip install screen-recorder-sdk
 ```
 
 # How to Use
-Download screenbuddy.py, run
+
 ```
  screenbuddy.py file_name 
 ```
