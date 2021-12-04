@@ -1,19 +1,18 @@
 # screenbuddy
-A simple screen recorder program written in python.
+A simple screen recorder program written in python. Screenbuddy takes the file name as argument and start recording the screen until an external interrupt is raised. Once the program is stopped the recorded session will be stored in your current repository. The current recording time is provided as 6min which you can change accordingly to your demand.
+
 # requirement
-- Python 3.x(64-bit)
-- PIP
-- screen-recorder-sdk
-
-# Configuration
-Make sure you have the latest version of 64-bit python and PIP installed in your system.
-
-Run the following command:
+- [Python 3.x(64-bit)](python.org)
+- [pip](https://pip.pypa.io/en/stable/installation/)
+- [screen-recorder-sdk](https://pypi.org/project/screen-recorder-sdk/)
+Make sure you have the latest version of 64-bit python and pip installed in your system. Once python and pip are properly confirgured run
+```
 pip install screen-recorder-sdk
-download screenbuddy.py and you're good to go
+```
 
 # How to Use
-When in the same directory as the python file run the command:
+Download screenbuddy.py script
+run the command:
 ```
  screenbuddy.py file_name 
 ```
