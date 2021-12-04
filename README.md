@@ -1,4 +1,4 @@
-# screenbuddy
+# Screenbuddy
 A simple screen recorder program written in python. Screenbuddy takes the file name as argument and start recording the screen until an external interrupt is raised. Once the program is stopped the recorded session will be stored in your current repository. The current recording time is provided as 6min which you can change accordingly to your demand.
 
 # Requirement
