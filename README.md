@@ -4,18 +4,17 @@ A simple screen recording program written in python. Screenbuddy takes the file 
 ## Requirement
 - [Python 3.x(64-bit)](python.org)
 - [pip](https://pip.pypa.io/en/stable/installation/)
-```
- pip install colorama
-```
 - [screen-recorder-sdk](https://pypi.org/project/screen-recorder-sdk/)
+- [colorama](https://pypi.org/project/colorama/)
 ```
  pip install screen-recorder-sdk
 ```
-
-- [colorama](https://pypi.org/project/colorama/)
-
+```
+ pip install colorama
+```
 ## Install Screenbuddy
-Screenbuddy is designed specifically for windows hosts, it requires latest vaersion of 64-bit python and pip installed in your system. Run the following command to install the latest version -
+Screenbuddy is designed specifically for windows hosts, it requires latest vaersion of 64-bit python and pip installed in your system.
+Run the following command to install the latest version -
 
 ```
  https://github.com/SCR1P7K1DD13/screenbuddy.git
