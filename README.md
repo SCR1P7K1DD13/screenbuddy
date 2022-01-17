@@ -29,4 +29,7 @@ python screenbuddy.py <file_name>
 ```
 ## How it works
 1. Once installed run the command: python screenbuddy.py myrecording
-<img width="948" alt="image" src="https://user-images.githubusercontent.com/56312786/149762250-faa42756-2975-4e52-85a0-236106bc4288.png">
+2. Specify the directory to which the recording has to be saved
+3. Specify the record duration in minutes. Click on enter.
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/56312786/149762709-5ba148f2-1852-4772-9165-0aeed6ce5a76.png">
+4. Once completed the recording with will be saved in the specified directory. 
