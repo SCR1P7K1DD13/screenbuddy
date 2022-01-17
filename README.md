@@ -17,7 +17,7 @@ A simple screen recorder program written in python. Screenbuddy takes the file n
 
 
 ## Install Screenbuddy
-Scrrenbuddy is designed specifically for windows hosts, it requires latest vaersion of 64-bit python and pip installed in your system. Run the following command to install the latest version -
+Screenbuddy is designed specifically for windows hosts, it requires latest vaersion of 64-bit python and pip installed in your system. Run the following command to install the latest version -
 
 ```
  https://github.com/SCR1P7K1DD13/screenbuddy.git
@@ -27,3 +27,8 @@ Scrrenbuddy is designed specifically for windows hosts, it requires latest vaers
 ``` 
 python screenbuddy.py <file_name>
 ```
+## How it works
+1. Once installed run the command: \textcolor{blue}{blue} python screenbuddy.py myrecording
+
+
+3. 
