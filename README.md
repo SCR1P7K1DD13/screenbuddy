@@ -17,7 +17,7 @@ Screenbuddy is designed specifically for windows hosts, it requires latest vaers
 Run the following command to install the latest version -
 
 ```
- https://github.com/SCR1P7K1DD13/screenbuddy.git
+git clone https://github.com/SCR1P7K1DD13/screenbuddy.git
 ```
 ### Usage
 
