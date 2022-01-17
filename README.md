@@ -30,4 +30,4 @@ python screenbuddy.py <file_name>
 ## How it works
 
 ````diff
-hi
++ hi
