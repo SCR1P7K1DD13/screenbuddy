@@ -29,6 +29,4 @@ python screenbuddy.py <file_name>
 ```
 ## How it works
 
-```diff
-+ Green hi
-...
+nsibility and eas
