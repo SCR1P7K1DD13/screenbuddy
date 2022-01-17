@@ -28,7 +28,11 @@ Screenbuddy is designed specifically for windows hosts, it requires latest vaers
 python screenbuddy.py <file_name>
 ```
 ## How it works
-1. Once installed run the command: ```diff green ```
 
-
-3. 
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
