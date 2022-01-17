@@ -29,4 +29,5 @@ python screenbuddy.py <file_name>
 ```
 ## How it works
 
-nsibility and eas
+````diff
+hi
