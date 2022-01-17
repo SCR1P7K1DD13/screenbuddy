@@ -1,5 +1,5 @@
 # Screenbuddy
-Sreenbuddy is a simple recording program written in python. It takes the file name as argument and start recording the screen for the specified time. User can specify the recording time and directory to which the recording has to be saved. If not specified explicitly after the specified time the recording will get automatically saved in the current working directory. The recording can be adjusted as per the demand and has to be specifed in minutes.
+Sreenbuddy is a simple recording program written in python. It takes the file name as an argument and starts recording the screen for the specified time. Users can specify the recording time and directory to which the recording has to be saved. If not specified explicitly after the specified time the recording will get automatically saved in the current working directory. The recording time can be adjusted as per the demand and has to be specified in minutes.
 
 ## Requirement
 - [Python 3.x(64-bit)](python.org)
