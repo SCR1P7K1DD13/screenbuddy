@@ -6,18 +6,21 @@ Sreenbuddy is a simple recording program written in python. It takes the file na
 - [pip](https://pip.pypa.io/en/stable/installation/)
 - [screen-recorder-sdk](https://pypi.org/project/screen-recorder-sdk/)
 - [colorama](https://pypi.org/project/colorama/)
-```
- pip install screen-recorder-sdk
-```
-```
- pip install colorama
-```
+
 ## Install Screenbuddy
 Screenbuddy is designed specifically for windows hosts, it requires latest vaersion of 64-bit python and pip installed in your system.
 Run the following command to install the latest version -
 
 ```
 git clone https://github.com/SCR1P7K1DD13/screenbuddy.git
+```
+Install the dependencies using - 
+
+```
+ pip install screen-recorder-sdk
+```
+```
+ pip install colorama
 ```
 ### Usage
 
