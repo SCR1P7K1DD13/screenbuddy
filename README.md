@@ -28,4 +28,4 @@ Screenbuddy is designed specifically for windows hosts, it requires latest vaers
 python screenbuddy.py <file_name>
 ```
 ## How it works
-<span style="color:red">red</span>
+![#green](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
