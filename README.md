@@ -30,9 +30,5 @@ python screenbuddy.py <file_name>
 ## How it works
 
 ```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
++ Green hi
 ...
