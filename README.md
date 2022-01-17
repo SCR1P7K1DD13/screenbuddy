@@ -28,4 +28,5 @@ Screenbuddy is designed specifically for windows hosts, it requires latest vaers
 python screenbuddy.py <file_name>
 ```
 ## How it works
-![#green](https://via.placeholder.com/15/c5f015/000000?text=+)
+1. Once installed run the command: python screenbuddy.py myrecording
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/56312786/149762250-faa42756-2975-4e52-85a0-236106bc4288.png">
